@@ -1,3 +1,5 @@
+#1. Створити список із 20 чисел.
+
 import random
 l=[]
 for i in range(20):
